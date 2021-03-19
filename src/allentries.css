@@ -1,0 +1,43 @@
+#project-summary-table {
+  font-family: Verdana;
+  font-size: 11px;
+  border-collapse: collapse;
+  width: 98%;
+  margin: auto;
+}
+
+#table-header-row {
+  font-weight: bold;
+  color: #545454;
+  background-image: linear-gradient(#FFFFFF, #EDEDED);
+}
+
+.table-header-cell-name, .table-header-cell-num {
+  border: 1px solid #BABABA;
+  padding: 8px;
+}
+
+.table-header-cell-num {
+  text-align: right;
+}
+
+.name-cell, .num-cell-1, .num-cell-2, .num-cell-3 {
+  border-bottom: 1px solid #BABABA;
+  padding: 10px;
+}
+
+.name-cell, .num-cell-1 {
+  color: #002852;
+}
+
+.num-cell-1, .num-cell-2, .num-cell-3 {
+  text-align: right;
+}
+
+.num-cell-3 {
+  font-weight: bold;
+}
+
+.billable-percentage {
+  color: #545454;
+}

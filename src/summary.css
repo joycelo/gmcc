@@ -1,0 +1,27 @@
+.summary-label {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 12px;
+  color: #545454;
+  margin-bottom: -20px;
+}
+
+.summary-result {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+#summary-hours {
+  float: left;
+  width: 175px;
+  height: auto;
+  margin: 5px;
+}
+
+#summary-billable-amount {
+  float: right;
+  width: 175px;
+  height: auto;
+  margin: 5px;
+}
