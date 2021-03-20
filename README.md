@@ -1,10 +1,12 @@
-## Tech Stack
+### GM Timesheet
+
+### Tech Stack
 * Express
 * PostgreSQL
 * React
 * REST API
 
-## Getting Started
+### Getting Started
 ```javascript 
 git clone https://github.com/joycelo/gmcc.git
 
@@ -19,6 +21,6 @@ npm run build
 npm start
 ```
 
-## Build Environment
+### Build Environment
 MacOS
 
