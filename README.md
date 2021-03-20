@@ -1,5 +1,3 @@
-## GM Timesheet
-
 ## Getting Started
 
 ```javascript 
