@@ -1,5 +1,10 @@
-## Getting Started
+## Tech Stack
+* Express
+* PostgreSQL
+* React
+* REST API
 
+## Getting Started
 ```javascript 
 git clone https://github.com/joycelo/gmcc.git
 
@@ -9,10 +14,11 @@ npm install
 
 node server/server.js
 
+npm run build
+
 npm start
 ```
 
 ## Build Environment
-
 MacOS
 
