@@ -1,6 +1,6 @@
 ## GM Timesheet
 
-### Tech Stack
+### Built With 
 * Express
 * PostgreSQL
 * React
