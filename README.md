@@ -1,4 +1,4 @@
-### GM Timesheet
+## GM Timesheet
 
 ### Tech Stack
 * Express
@@ -6,7 +6,7 @@
 * React
 * REST API
 
-### Getting Started
+### Installation
 ```javascript 
 git clone https://github.com/joycelo/gmcc.git
 
