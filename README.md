@@ -1,4 +1,4 @@
-# GM Timesheet
+## GM Timesheet
 
 ## Getting Started
 
@@ -7,9 +7,9 @@ git clone https://github.com/joycelo/gmcc.git
 
 cd gmcc/
 
-node server/server.js
-
 npm install
+
+node server/server.js
 
 npm start
 ```
